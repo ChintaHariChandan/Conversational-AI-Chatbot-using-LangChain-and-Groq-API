@@ -41,6 +41,5 @@ This project is licensed under the MIT License — you are free to use, modify, 
 Chinta Harichandan    
 📧 Email: harichandan130505@gmail.com  
 🔗 LinkedIn Profile: https://www.linkedin.com/in/harichandan-chinta-210451346  
-
 📂 GitHub: https://github.com/ChintaHariChandan  
 
