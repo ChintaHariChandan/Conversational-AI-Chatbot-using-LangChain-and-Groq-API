@@ -16,3 +16,21 @@ An interactive and intelligent AI Chatbot built with LangChain, Groq API, and Py
 | Model Provider | Groq (Llama Model) |
 | Interface      | Jupyter Notebook   |
 | Environment    | Conda / Virtualenv |
+
+### 🔐 API Key Setup
+This project uses the Groq API for LLM access.
+
+To test it yourself:
+1. Create a free Groq account → [https://console.groq.com](https://console.groq.com)
+2. Generate an API key.
+3. Set it as a system environment variable:
+   - **Windows (CMD):**
+     ```bash
+     setx GROQ_API_KEY "your_api_key_here"
+     ```
+   - **Mac/Linux:**
+     ```bash
+     export GROQ_API_KEY="your_api_key_here"
+     ```
+4. Restart Jupyter Notebook and run the chatbot.
+
