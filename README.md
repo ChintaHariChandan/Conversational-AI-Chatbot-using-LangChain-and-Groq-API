@@ -37,10 +37,10 @@ To test it yourself:
 🧾 License  
 This project is licensed under the MIT License — you are free to use, modify, and distribute this software, provided that proper credit is given to the original author.
 
-👤 Author  
-Chinta Harichandan  
-📧 Email: harichandan130505@gmail.com
-🔗 LinkedIn Profile: https://www.linkedin.com/in/harichandan-chinta-210451346
+👤 Author    
+Chinta Harichandan    
+📧 Email: harichandan130505@gmail.com  
+🔗 LinkedIn Profile: https://www.linkedin.com/in/harichandan-chinta-210451346  
 
-📂 GitHub: https://github.com/ChintaHariChandan
+📂 GitHub: https://github.com/ChintaHariChandan  
 
