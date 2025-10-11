@@ -3,7 +3,7 @@ An interactive and intelligent AI Chatbot built with LangChain, Groq API, and Py
 
 ### 🧩 Features  
 ✅ Built with LangChain for modular LLM integration  
-✅ Uses Groq API for ultra-fast inference  
+✅ Uses Groq API to access openai/gpt-oss-20B for ultra-fast inference  
 ✅ Memory-enabled — retains context across turns  
 ✅ Clean and extensible Jupyter Notebook structure  
 ✅ Can be adapted for real-world applications (support, teaching, assistants)  
